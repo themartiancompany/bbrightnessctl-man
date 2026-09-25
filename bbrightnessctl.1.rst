@@ -27,17 +27,51 @@
    If not, see <https://www.gnu.org/licenses/>.
 
 
-===========================================================
-Bbrightessctl manuals authors
-===========================================================
+=================
+bbrightnessctl
+=================
 
-* Pellegrino Prevete
-  * eth-mail
-      <dvorak@0x87003Bd6C074C713783df04f36517451fF34CBEf>
-  * e-mail
-      <pellegrinoprevete@gmail.com>
-* Truocolo
-  * eth-mail
-      <truocolo@0x6E5163fC4BFc1511Dbe06bB605cc14a3e462332b>
-  * e-mail
-      <truocolo@aol.com>
+--------------------------------------------------------------
+Read and control device brightness
+--------------------------------------------------------------
+:Version: bbrightnessctl |version|
+:Manual section: 1
+
+Synopsis
+========
+
+bbrightnessctl *[options]* *input-command* (*brightness-value*)
+
+Description
+===========
+
+Cross-platform brightnessctl utility.
+
+Options
+=======
+
+
+-m                      Setting method (brightnessctl,
+                        root, termux)
+
+-h                      Display help.
+-c                      Enable color output.
+-v                      Enable verbose output.
+
+Bugs
+====
+
+https://github.com/themartiancompany/bbrightnessctl/-/issues
+
+Copyright
+=========
+
+Copyright Pellegrino Prevete. AGPL-3.0.
+
+See also
+========
+
+* brightnessctl
+* termux-brightness
+
+.. include:: variables.rst

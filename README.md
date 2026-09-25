@@ -26,7 +26,7 @@
 
 # Bbrightenssctl manuals
 
-The [`fur`](
+The [`bbrightnessctl`](
   https://github.com/themartiancompany/bbrightnessctl)
 manuals.
 
@@ -40,8 +40,8 @@ make \
   install
 ```
 
-The fur has been published officially on the
-the uncensorable
+B-brightness control has been published officially on the
+the uncensorable, undeletable
 [Ur](
   https://github.com/themartiancompany/ur)
 user repository and application store as
